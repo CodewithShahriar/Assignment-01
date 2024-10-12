@@ -111,6 +111,9 @@ button{
     justify-content: center;
     align-items: start;
 }
+.dev-card-cont-2{
+    padding-left: 50px;
+}
 .development-card-title{
     font-size: 30px;
     padding-right: 250px;
