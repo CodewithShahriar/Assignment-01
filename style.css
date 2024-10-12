@@ -292,3 +292,21 @@ button{
     font-weight: bold;
     border: none;
 }
+
+
+/* footer section start */
+.footer{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    padding: 0px 150px;
+}
+.footer span{
+    font-size: 20px;
+    font-weight: 600;
+}
+.icon{
+    display: flex;
+    gap:20px;
+}
