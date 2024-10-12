@@ -212,16 +212,40 @@ button{
     border-radius: 8px;
 }
 
-.fill {
-   
-    filter: drop-shadow(0);
-    font-weight: bold;
-    transition: all .3s ease; 
-  }
-  
-  .fill:hover{
-    transform: scale(1.125);  
-    border-color: rgba(255, 255, 255, 0.9);
-    filter: drop-shadow(0 10px 5px rgba(0,0,0,0.125));
-    transition: all .3s ease;    
-  }
+
+
+
+  /* next target section start */
+.next-target{
+    margin: 100px 0px;
+}
+.next-target-card{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.next-target-card-1{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    padding: 30px;
+    border: 2px solid rgb(215, 213, 213);
+    border-radius: 15px;
+    box-shadow: inset;
+}
+
+.rcbg{
+    background-color: rgb(226, 236, 238);
+}
+.ndbg{
+    background-color: rgb(216, 240, 223);
+}
+.next-content p{
+    padding-right: 200px;
+}
+
+
+.ntp{
+    padding-left: 45px;
+}
