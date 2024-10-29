@@ -183,12 +183,12 @@ button{
     gap: 25px;
 }
 .current-target-card-1{
-    background-color:rgb(240, 225, 205);
+    background-color:rgb(246, 232, 213);
     padding: 30px;
     border-radius: 20px;
 }
 .current-target-card-2{
-    background-color:rgb(206, 229, 243);
+    background-color:rgb(224, 237, 244);
     padding: 30px;
     border-radius: 20px;
 }
